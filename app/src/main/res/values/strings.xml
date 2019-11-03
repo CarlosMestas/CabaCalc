@@ -140,23 +140,17 @@
     <string name="msj_0407a">Today is Saturday, ruled by the planet SATURN </string>
         
     <string name="msj_040101">The planetary influence of the LUNA favors activities related to: Imagination, subconscious automatisms, species reproduction, travel, handicrafts, practical arts, businesses related to liquid products, etc. </string>
-
         
     <string name="msj_040202">The planetary influence of the planet MERCURIO favors activities related to: Will, command, armies, wars, surgery, forces and forces, cases that involve struggles, etc. </string>
-
         
     <string name="msj_040303">The planetary influence of the planet VENUS favors activities related to: Reason and rationalism, lawsuits, civil matters, advocacy, science, everything that has to do with intellect, medical science, cures. </string>
-
         
     <string name="msj_040404">The planetary influence of the SOL favors activities related to: Wealth, poverty, favorable or unfavorable economic matters, laws, rights of people, high religious dignitaries, judges, matters that have to do with laws, etc. </string>
-
-        
+     
     <string name="msj_040505">The planetary influence of the planet MARS favors activities related to: Artistic creative imagination, dramas, comedies and tragedies, performing art. Love affairs, marital problems, boyfriend issues, anything to do with home and children, etc. </string>
 
-        
     <string name="msj_040606">The planetary influence of the planet JUPITER for activities related to: The environment in which we live, practical life, Karma in action, the sword of justice that reaches us from heaven, matters of property, roots , land, houses, property, prisons, deaths, etc. </string>
 
-        
     <string name="msj_040707">The planetary influence of the planet SATURNO for activities related to: Health, life, fertility, high government dignitaries, company leaders, kings and lords of command, etc. </string>
 
     <string name="msj_05">Kabbalah of the Year</string>
@@ -172,6 +166,5 @@
     <string name="msj_dialog02a">Designer:</string>
 
     <string name="msj_dialog03">© 2019, MECA co, Ltd. All rights reserved.</string>
-
 
 </resources>
