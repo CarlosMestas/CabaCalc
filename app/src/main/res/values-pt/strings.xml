@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CabaCalc</string>
+
+    <string name="button">Botão</string>
+
+    <string name="TextView">Texto :V</string>
+
+    <string name="Hello">Olá!</string>
+
+    <string name="Start">COMEÇAR</string>
+
+    <string name="enter_your_information">Digite suas informações:</string>
+
+    <string name="name">Nomes</string>
+
+    <string name="last_name">Sobrenome</string>
+
+    <string name="day">Dia</string>
+
+    <string name="month">Mês</string>
+
+    <string name="year">Ano</string>
+
+    <string name="calculate">CALCULAR</string>
+
+    <string name="fill_all">Rellena todos los campos</string>
+
+    <string name="error_1">Ano bissexto, fevereiro tem 29 dias</string>
+
+    <string name="error_2">Ano não bissexto, fevereiro tem 28 dias</string>
+
+    <string name="error_3">Digite o dia corretamente</string>
+
+    <string name = "birth_day">Data de nascimento </string>
+
+        <string name = "interiorUrgency">Urgência interior </string>
+
+        <string name = "fundamentalTonic">Tônico Fundamental </string>
+
+        <string name = "tonicOfTheDay">Tônico do dia </string>
+
+        <string name = "msj_number">Números que nos governam durante a vida: </string>
+
+        <string name = "msj_01">A urgência interna é como costumamos ser, como um signo do zodíaco, mas numérico. </string>
+
+        <string name = "msj_01011">É um símbolo de RESPONSABILIDADE, elemento criativo, hélice, animador. Ela confere poder ao direcionamento, originalidade no pensamento, interesse no novo e na unidade de pensamento e ação. Exige força de espírito, autoconfiança, fé nos meios que valem a pena e nos objetivos que são perseguidos. O anseio secreto desses nativos tende a desenvolver sua própria suficiência, de modo que brilha por si próprio e irradia luz e calor através de obras que contribuem para o progresso moral e material daqueles que os usam. Eles efetivamente realizam qualquer trabalho que exija iniciativa, aptidão executiva e espírito inventivo. </string>
+
+        <string name = "msj_01012">Talento natural: está relacionado ao Sol. É um símbolo da Necessidade, um princípio que exige que as coisas sejam. No espiritual, ele inspira. No mental, dá unidade de pensamentos. No físico, dá unidade de ação. No movimento mundano para começar. Torna a pessoa um pensador independente e original, interessado no novo e sempre aberto à iniciativa. Seu progresso depende da maneira como você aplica suas disposições naturais à criação de elementos materiais. Sua missão na vida é contribuir para o que for necessário e possível. </string>
+
+        <string name = "msj_01021">É um símbolo de COOPERAÇÃO, coordenador, metodizador e elemento concordante. Dá poder para harmonizar, ductilidade da mente, interesse na utilidade, suavidade nos modos e desejo de servir. Exige simpatia, sagacidade, compreensão, cordialidade, atenção aos detalhes, paciência e complacência. O anseio secreto desses nativos tende a desenvolver sua própria suficiência, de maneira a harmonizar os fatores opostos, favorecer a concordância e contribuir para a felicidade das pessoas com quem convive ou se relaciona. Eles efetivamente realizam qualquer trabalho que exija adaptação, associação eficaz de idéias e um espírito abrangente. </string>
+
+    <string name = "msj_01022">Talento natural: está relacionado à lua. É um símbolo da Possibilidade, um princípio que insta a harmonizar os fatores opostos que coincidem com o mesmo ato. No espiritual, equilibra as emoções. Na ordem mental, a associação de idéias. No físico regula a cooperação do esforço. No mundano, transmite transcendência aos atos. Dá à pessoa tato, entendimento, espírito analítico, capacidade de adquirir conhecimento, praticidade e tendência a harmonizar, justificar e servir. Seu progresso depende de como você aplica suas qualidades adaptativas ao ambiente em que vive e às pessoas com quem você está em contato. Sua missão na vida é ajudar a facilitar o que é possível. </string>
+
+        <string name = "msj_01031">É um símbolo de EXPRESSÃO, elemento de modelagem, harmonizador, ressuscitador. Ele confere poder para manifestar, capacidade de interpretar, interesse em beleza e emoção para apreciá-lo e declará-lo. Exige espírito alegre, bom senso para julgar os valores, fé nos ideais que persegue e uma técnica artística para capturá-los. O anseio secreto desses nativos tende a desenvolver sua própria suficiência, a fim de cristalizar nas obras emocionais a vida emocional que ferve na intimidade de seu ser. Eles efetivamente realizam qualquer trabalho que exija capacidade emocional, facilidades de expressão e engenhosidade de engenhosidade. </string>
+
+    <string name = "msj_01032">Talento natural: está relacionado a Júpiter. É um símbolo de Facilidade, um princípio que exorta a dar forma e expressão à vida interior. No espiritual, inspira emoções alegres. No mental, estimula a imaginação a criar. No físico, estimula o esforço. No mundano, dá satisfação pelo esforço realizado. Dá à pessoa senso de humor, tato, originalidade, apego às coisas da família e liberalidade. Seu progresso depende da generosidade com a qual você faz uso dos elementos que possui e do grau em que esses elementos contribuem para a felicidade dos outros. Sua missão na vida é contribuir para o que é fácil e concordante. </string>
+
+        <string name = "msj_01041">É um símbolo de FOUNDATION, elemento de construção, reconstrução, duração. Ele confere poder para construir, capacidade de planejar, interesse na economia e esforço persistente. Exigir conhecimentos, aptidão técnica, firmeza, autoridade e controle. O anseio secreto desses nativos tende a desenvolver sua própria suficiência de uma maneira que favorece a economia universal e se traduz em trabalhos práticos de utilidade imediata. Eles efetivamente realizam qualquer trabalho que exija método, disciplina, senso positivista e perseverança no esforço. </string>
+
+    <string name = "msj_01042">Talento natural: está relacionado a Urano. É um símbolo da Concordância, um princípio que exorta a dar realidade inteligível às criações. No espiritual, encoraja. Nas imagens mentais mentais concretas. No físico, é experiência. No mundano, dá perfeição às coisas. Dá à pessoa mentalidade analítica, lógica, experiência, previsão e praticidade. Seu progresso depende da habilidade que você exibe em seu trabalho e da economia com a qual você governa suas ações. Sua missão na vida é contribuir para o que é útil concordante. </string>
+
+        <string name = "msj_01051">Símbolo da DIFERENCIAÇÃO, elemento de seleção, pesquisa e experiência. Dá poder de indagar, capacidade de julgar, interesse no oculto e no manifesto. Exija intenso desejo de saber, julgamento sereno no julgamento, liberdade de ação e disciplina no comportamento. O anseio secreto desses nativos tende a aprender com sua própria experiência os mistérios da vida e a traduzir o que aprendem em obras que contribuem para o progresso espiritual, especialmente pessoas do sexo oposto. Eles efetivamente realizam qualquer trabalho que exija atividade, independência de julgamento e compreensão rápida da natureza dos outros. </string>
+    <string name = "msj_01052">Talento natural: está relacionado ao mercúrio. É um símbolo da Utilidade, um princípio que exorta a dar uma realidade sensível ao que foi criado. No espiritual, é volição. Na imagem mental. No físico, momento. No mundano, torna as coisas apetitosas. Dá à pessoa uma natureza sensível, receptiva, inquieta e muito observadora, com a capacidade de perceber o que os outros pensam antes de expressá-la. Seu progresso depende do sucesso com o qual você seleciona suas associações e atividades. Sua missão na vida é ajudar a utilidade a ser conveniente. </string>
+
+        <string name = "msj_01061">É um símbolo de OPÇÃO, elemento seletor, aquecedor e qualificador. Ele confere poder para decidir, capacidade de escolher, interesse pelo belo, útil, fácil e amor dos três. Exige discernimento, compreensão da transcendência dos atos, gosto artístico e contenção de impulsos. O anseio secreto desses nativos tende a desenvolver sua própria suficiência, para que se traduza em obras úteis e bonitas que contribuam para melhorar a vida social e o charme dos lares. Eles efetivamente realizam qualquer trabalho que exija espírito conciliatório, desejo de estabilidade, preferência por itens educacionais e bom gosto pelo ornamento. </string>
+
+    <string name = "msj_01062">Talento natural: está relacionado a Vênus. É um símbolo de conveniência, um princípio que impele a determinar o comportamento. No espiritual, inclina o espírito para o que é apropriado. No mental, dá insight. No físico, oportunidade de escolher. No mundano, dá ornamento às coisas. Dá à pessoa devoção, espírito de observador, sentimentos ligados à vida em comum e capacidade de executar as tarefas que lhe são confiadas ou as responsabilidades que assume. Seu progresso depende da lealdade com a qual você persevera em alcançar o que é proposto. Sua missão na vida é contribuir para a conveniência de ser agradável. </string>
+
+        <string name = "msj_01071">É um símbolo de SUPERAÇÃO, elemento de diversidade, elucidação, exaltação. Ele confere poder para superar o esforço, capacidade de superar conquistas passadas, interesse em conhecer a parte oculta das coisas e o amor ao desconhecido. Exija iluminação interior, serenidade de espírito, gosto refinado e espírito conciliador. O anseio secreto dos nativos tende a adquirir ciência, a desenvolver sua própria suficiência, de modo a traduzir em obras adquiridas a ciência adquirida e desvendar mistérios mais profundos a cada dia. Eles efetivamente realizam qualquer trabalho que exija inspiração, fidelidade, identificação mental e desejo de perfeição em detalhes. </string>
+
+    <string name = "msj_01072">Talento natural: está relacionado a Netuno. É um símbolo do Agrado, um princípio que exige a orientação do esforço. No espiritual, dá intuição. No mental, comunica suficiência. No físico, transmite aptidão. No mundano, torna as coisas apetitosas. Dá à pessoa critérios independentes, autoridade, lealdade, reserva, amor pelos métodos científicos e um desejo constante de superar a si mesma e melhorar tanto quanto eles estão preocupados. Seu progresso depende do grau em que consegue aperfeiçoar seu regime de vida e dar transcendência ao seu trabalho. Sua missão na vida é que o agradável seja lucrativo. </string>
+
+        <string name = "msj_01081">Símbolo de ESTABILIDADE, elemento de permanência, associação, cooperação. Dá poder para especificar idéias em trabalhos práticos, capacidade de distribuir efetivamente elementos naturais, interesse em avanços técnicos e amor pelas criações do intelecto. Tolerância à demanda, distribuição na justiça, previsão, confiança no tempo e senso de proporção. O anseio secreto dos nativos tende a planejar muito, desenvolver sua própria suficiência, para que se traduza em realizações duradouras e utilize o que eles possuem em novos negócios. Eles podem efetivamente executar qualquer trabalho que exija tato, cálculo, aptidão executiva e desejo de expansão. </string>
+
+    <string name = "msj_01082">Talento natural: está relacionado a Saturno. É um símbolo do Provecho, um princípio que exige a realização de planos nas obras. No espiritual, ilumina o entendimento. No mental, ordene as idéias. No físico, coordena os esforços. No mundo, organiza a cooperação na força de trabalho. Dá à pessoa um espírito crítico, calculista, racional e um excelente senso prático, que se aplica tanto à criação quanto à demolição. Seu progresso depende da maneira como você aplica suas disposições intelectuais à conquista de valores materiais. Sua missão na vida é que os lucrativos sejam estimados. </string>
+
+        <string name = "msj_01091">É um símbolo de CULMINATION, elemento de identificação, comunhão, inspiração. Ele confere poder para influenciar o próximo e o distante, a capacidade de alcançar preeminência, o interesse em coisas sem precedentes e o amor pelo difícil. Exige inteligência clara, gosto pelo bem, suavidade nos modos, cautela nas decisões e altruísmo no procedimento. O anseio secreto desses nativos tende a se identificar com o que existe, a desenvolver sua própria suficiência, para que seja traduzido em grandes obras e faça com que essas obras sejam úteis e admiradas pelo maior número de pessoas. Eles podem efetivamente executar qualquer trabalho que exija identificação mental, facilidade de expressão, comunhão de idéias e sentimentos e um desejo intenso de superar obstáculos. </string>
+    <string name = "msj_01092">Talento natural: está relacionado a Marte. É um símbolo da estimativa, um princípio que exige a comunicação do pensador com seu pensamento e a coisa pensada. No espiritual, é concerto. No mental, eu aprecio. No físico, satisfação. No mundo, a compreensão da força de trabalho com a missão que ela cumpre. Concede aptidão para se identificar com pessoas e coisas, para comungar com idéias e sentimentos, facilidade de expressão, deseja conhecer novas terras e condições de vida e capacidade de manifestar o que foi aprendido e dar impulso ao que é proposto. Seu progresso depende do serviço altruísta que você presta ao seu trabalho e da boa vontade em que suas palavras, idéias e obras são inspiradas. Sua missão na vida é que o estimado seja merecido. </string>
+
+        <string name = "msj_02">O tônico fundamental é o que precisamos trabalhar para ter sucesso na vida. </string>
+
+    <string name = "msj_0201">Este número indica que você deve trabalhar de bom grado, com idéias originais, para ser um empreendedor. </string>
+
+        <string name = "msj_0202">Este número indica que você precisa aprender a se associar com outras pessoas, ouvir opiniões contrárias sem ficar com raiva, desenvolver a imaginação criativa. </string>
+
+        <string name = "msj_0203">Este número indica que você precisa trabalhar com arte e beleza em tudo que faz, como se vestir, para falar. </string>
+
+        <string name = "msj_0204">Este número indica que você deve estabelecer as bases em seus projetos e trabalhos. </string>
+
+        <string name = "msj_0205">Este número indica que você precisa ver os prós e contras de tudo o que é proposto. </string>
+
+        <string name = "msj_0206">Este número indica que você precisa ser decisivo e se importar com o que faz. </string>
+
+        <string name = "msj_0207">Este número indica que você precisa se esforçar muito em tudo o que faz. </string>
+
+        <string name = "msj_0208">Este número indica que você precisa ser muito paciente, sabe esperar. </string>
+
+        <string name = "msj_0209">Esse número indica que você precisa ser generoso e ótimo, de preferência trabalhar independentemente. </string>
+
+    <string name = "msj_03001">Seu número de hoje </string>
+
+        <string name = "msj_03002">é: </string>
+
+        <string name = "msj_0300301">, que indica que, para ter mais chances de obter sucesso no que se propõe, você deve: trabalhar com grande vontade, com idéias originais, ser um empreendedor. </string>
+
+        <string name = "msj_0300302">, que indica que, para ter mais chances de obter sucesso no que se propõe, você deve: aprender a se associar com os outros, ouvir opiniões contrárias sem ficar com raiva, desenvolver a imaginação criativo. </string>
+
+        <string name = "msj_0300303">, que indica que, para ter mais chances de obter sucesso no que se propõe, você deve: trabalhar com arte e beleza em tudo o que faz, em roupas, em conversando. </string>
+
+        <string name = "msj_0300304">, que indica que, para ter mais chances de obter sucesso no que se propõe, neste dia, você deverá: estabelecer a base firme em seus projetos e trabalhos. </string>
+
+        <string name = "msj_0300305">, que indica que, para ter mais chances de obter sucesso no que foi estabelecido, você deve: ver os prós e contras de tudo o que é proposto neste dia. </string >
+
+    <string name = "msj_0300306">, o que indica que, para ter mais chances de obter sucesso no que se propõe, neste dia você deve: ser decisivo e cuidar do que faz. </string>
+
+        <string name = "msj_0300307">, que indica que, para ter mais chances de obter sucesso no que foi estabelecido, você deve: esforçar-se muito em tudo o que faz. </string>
+
+        <string name = "msj_0300308">, que indica que, para ter mais chances de obter sucesso no que foi estabelecido, você deve: ser muito paciente, saber esperar. </string>
+
+        <string name = "msj_0300309">, que indica que, para ter mais chances de obter sucesso no que se propõe, nesse dia você deve: ser generoso e ótimo, de preferência trabalhar de forma independente. </string>
+
+        <string name = "hermetic_astrologic">Astrologia hermética </string>
+
+    <string name = "msj_0401">Hoje é domingo, governado pelo LUNA </string>
+
+        <string name = "msj_0402">Hoje é segunda-feira, governada pelo planeta MERCÚRIO </string>
+
+        <string name = "msj_0403">Hoje é terça-feira, governada pelo planeta VENUS </string>
+
+        <string name = "msj_0404">Hoje é quarta-feira, governada pelo SOL </string>
+
+        <string name = "msj_0405">Hoje é quinta-feira, governada pelo planeta MARS </string>
+
+        <string name = "msj_0406">Hoje é sexta-feira, governada pelo planeta JUPITER </string>
+
+        <string name = "msj_0407a">Hoje é sábado, governado pelo planeta SATURN </string>
+    
+        <string name = "msj_040101">A influência planetária do LUNA favorece atividades relacionadas a: imaginação, automatismos subconscientes, reprodução de espécies, viagens, artesanato, artes práticas, negócios relacionados a produtos líquidos, etc. </string>
+
+        <string name = "msj_040202">A influência planetária do planeta MERCURIO favorece atividades relacionadas a: Vontade, comando, exércitos, guerras, cirurgia, forças e forças, casos que envolvem lutas, etc. </string>
+
+        <string name = "msj_040303">A influência planetária do planeta VENUS favorece atividades relacionadas a: Razão e racionalismo, ações judiciais, questões civis, advocacia, ciência, tudo o que tem a ver com intelecto, ciência médica, cura. </string>
+
+        <string name = "msj_040404">A influência planetária do SOL favorece atividades relacionadas a: Riqueza, pobreza, questões econômicas favoráveis ​​ou desfavoráveis, leis, direitos das pessoas, altos dignitários religiosos, juízes, assuntos relacionados a leis, etc. </string>
+
+        <string name = "msj_040505">A influência planetária do planeta MARS favorece atividades relacionadas a: Imaginação criativa artística, dramas, comédias e tragédias, arte performática. Casos de amor, problemas conjugais, problemas com namorados, tudo a ver com casa e filhos, etc. </string>
+
+        <string name = "msj_040606">A influência planetária do planeta JUPITER em atividades relacionadas a: O ambiente em que vivemos, vida prática, Karma em ação, a espada da justiça que nos chega do céu, questões de propriedade, raízes , terrenos, casas, propriedades, prisões, mortes etc. </string>
+
+        <string name = "msj_040707">A influência planetária do planeta SATURNO em atividades relacionadas a: Saúde, vida, fertilidade, altos dignitários do governo, líderes de empresas, reis e senhores do comando, etc. </string>
+
+    <string name = "msj_05">Cabala do ano </string>
+
+        <string name = "msj_0501">Durante a vida, temos anos espaciais relacionados à lei de causa e efeito (Karma), dependerá de um se o número nos favorecer ou for contra um, por suas ações. </string>
+
+        <string name = "msj_0502">número regente </string>
+
+        <string name = "msj_dialog00">Sobre nós: </string>
+
+        <string name = "msj_dialog01">Programador: </string>
+
+        <string name = "msj_dialog02a">Desenhador: </string>
+
+        <string name = "msj_dialog03">© 2019, MECA co, Ltd. Todos os direitos reservados. </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

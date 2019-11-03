@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">CabaCalc</string>
+
+    <string name="button">Button</string>
+
+    <string name="TextView">TextView</string>
+
+    <string name="Hello">WELCOME!</string>
+
+    <string name="Start">START</string>
+
+    <string name="enter_your_information">Enter your information:</string>
+
+    <string name="name">Name</string>
+
+    <string name="last_name">Last Name</string>
+
+    <string name="day">Day</string>
+
+    <string name="month">Month</string>
+
+    <string name="year">Year</string>
+
+    <string name="calculate">CALCULATE</string>
+
+    <string name="fill_all">Fill all the fields</string>
+
+    <string name="error_1">Leap year, February has 29 days</string>
+
+    <string name="error_2">Non-leap year, February has 28 days</string>
+
+    <string name="error_3">Enter the day correctly</string>
+
+    <string name="birth_day">Date of birth</string>
+
+    <string name="interiorUrgency">Interior Urgency</string>
+
+    <string name="fundamentalTonic">Fundamental Tonic</string>
+
+    <string name="msj_number">Numbers that govern us during life:</string>
+
+    <string name="msj_01">The inner urgency, is how we tend to be, like a zodiac sign, but numerical.</string>
+
+    <string name="msj_01011">It is a symbol of RESPONSIBILITY, creative element, propeller, animator. It imparts power to direct, originality in thinking, interest in the new and unity of thought and action. It demands strength of mind, self-confidence, faith in the means that it is worth and in the aims that are pursued. The secret yearning of these natives tends to develop their own sufficiency so that it shines on its own and radiates light and heat through works that contribute to the moral and material progress of those who use them. They effectively carry out any work that requires initiative, executive aptitude and inventive spirit.</string>
+
+        
+    <string name="msj_01012">Natural Talent: It is related to the Sun. It is a symbol of Need, a principle that urges things to be. In the spiritual it inspires. In the mental it gives unity of thoughts. In the physical it gives unity of action. In the mundane move to start. It makes the person an independent, original thinker, interested in the new and always open to initiative. Your progress depends on the way you apply your natural provisions to the creation of material elements. Its mission in life is to contribute to what is necessary is possible.</string>
+
+    <string name="msj_01021">It is a symbol of COOPERATION, coordinating, methodizing and concordant element. It imparts power to harmonize, ductility of mind, interest in usefulness, softness in ways and desire to serve. Demands congeniality, sagacity, understanding, cordiality, attention to detail, patience and complacency. The secret yearning of these natives tends to develop their own sufficiency in a way that harmonizes the opposite factors, favors concordance and contributes to the happiness of the people with whom they live or relate. They effectively carry out any work that requires adaptation, effective association of ideas and a comprehensive spirit.</string>
+
+    <string name="msj_01022">Natural Talent: It is related to the Moon. It is a symbol of the Possibility, a principle that urges to harmonize the opposite factors that concur to the same act. In the spiritual it gives balance to the emotions. In the mental order the association of ideas. In the physical it regulates the cooperation of the effort. In the mundane it imparts transcendence to the acts. It gives the person tact, understanding, analytical spirit, ability to acquire knowledge, practicality and tendency to harmonize, justify and serve. Your progress depends on how you apply your adaptive qualities to the environment in which you live and to the people with whom you are in contact. His mission in life is to contribute to what is possible is easy.</string>
+
+    <string name="msj_01031">It is a symbol of EXPRESSION, modeling element, harmonizer, resuscitator. It imparts power to manifest, ability to interpret, interest in beauty and emotion to appreciate and declare it. It demands joyful spirit, good sense to judge the values, faith in the ideals that it pursues and an artistic technique to capture them. The secret yearning of these natives tends to develop their own sufficiency in order to crystallize in emotional works the emotional life that boils in the intimacy of their being. They effectively carry out any work that requires emotional capacity, ease of expression and sharpness of ingenuity.</string>
+
+    <string name="msj_01032">Natural Talent: It is related to Jupiter. It is a symbol of Ease, a principle that urges to give form and expression to inner life. In the spiritual it inspires joyful emotions. In the mental it encourages the imagination to create. In the physical it gives stimulus to strive. In the mundane it gives satisfaction for the effort made. It gives the person humorous sense, tact, originality, attachment to family things and liberality. Your progress depends on the generosity with which you make use of the elements you have and the degree to which those elements contribute to the happiness of others. Its mission in life is to contribute to what is easy is concordant.</string>
+
+    <string name="msj_01041">It is a symbol of FOUNDATION, element of construction, reconstruction, duration. It imparts power to build, ability to plan, interest in the economy and persistent effort. Demand expertise, technical aptitude, firmness, authority and control. The secret yearning of these natives tends to develop their own sufficiency in a way that favors the universal economy and translates into practical works of immediate utility. They perform effectively any work that requires method, discipline, positivist sense and perseverance in the effort.</string>
+
+    <string name="msj_01042">Natural Talent: It is related to Uranus. It is a symbol of Concordance, a principle that urges to give intelligible reality to creations. In the spiritual it gives encouragement. In the mental mental concrete images. In the physical it is experience. In the mundane it gives perfection to things. It gives the person analytical mentality, logic, expertise, foresight and practicality. Your progress depends on the skill you display in your work and the economy with which you govern your actions. Its mission in life is to contribute to what is concordant useful.</string>
+
+    <string name="msj_01051">Symbol of DIFFERENTIATION, element of selection, research, experience. It imparts power to inquire, ability to judge, interest in the hidden and the manifested. Demand intense desire to know, serene judgment in judging, freedom of action and discipline in behavior. The secret yearning of these natives tends to learn from their own experience the mysteries of life and translate what they learn in works that contribute to spiritual advancement, especially people of the opposite sex. They effectively perform any work that requires activity, independence of judgment and quick understanding of the nature of others.</string>
+
+    <string name="msj_01052">Natural Talent: It is related to Mercury. It is a symbol of Utility, a principle that urges to give sensible reality to what has been created. In the spiritual, it is volition. In the mental, image. In the physical, momentum. In the mundane, it makes things appetizing. It gives the person a sensitive, receptive, restless, very observant nature, with the ability to perceive what others think before they express it. Your progress depends on the success with which you select your associations and activities. Its mission in life is to contribute to what is useful is convenient.</string>
+
+    <string name="msj_01061">It is a symbol of the OPTION, selector element, aquilator and qualifier. It imparts power to decide, ability to choose, interest in the beautiful, useful and easy and love of all three. It demands discernment, understanding for the transcendence of acts, artistic taste and restraint in impulses. The secret yearning of these natives tends to develop their own sufficiency so that it translates into useful and beautiful works that contribute to improving the social life and charm of homes. They effectively perform any work that requires conciliatory spirit, desire for stability, preference for things of education and taste for the ornament.</string>
+
+    <string name="msj_01062">Natural Talent: It is related to Venus. It is a symbol of Convenience, a principle that urges to determine behavior. In the spiritual, it inclines the spirit towards what is proper. In the mental, it gives insight. In the physical, opportunity to choose. In the mundane, it gives ornament to things. It gives the person devotion, observer spirit, feelings attached to life in common and ability to perform the tasks entrusted to him or the responsibilities he assumes. Your progress depends on the loyalty with which you persevere in achieving what is proposed. Its mission in life is to contribute to the convenience of being pleasant.</string>
+
+    <string name="msj_01071">It is a symbol of SUPERATION, element of diversity, elucidation, exaltation. It imparts power to overcome the effort, ability to exceed past achievements, interest in knowing the hidden part of things and love of the unknown. Demand interior lighting, serenity of spirit, refined taste and conciliatory spirit. The secret yearning of the natives tends to acquire science, develop one\'s sufficiency so that it translates into acquired works the acquired science and unravels deeper mysteries every day. They effectively carry out any work that requires inspiration, fidelity, mental identification and desire for perfection in details.</string>
+
+    <string name="msj_01072">Natural Talent: It is related to Neptune. It is a symbol of Agrado, a principle that urges the orientation of the effort. In the spiritual, it gives intuition. In the mental, communicates sufficiency. In the physical, it imparts aptitude. In the mundane, it makes things appetizing. It gives the person independent criteria, authority, loyalty, reserve, love of scientific methods and a constant desire to surpass themselves and improve as much as they are concerned. Its progress depends on the degree to which it manages to perfect its regime of life and give transcendence to its work. His mission in life is that the pleasant be profitable.</string>
+
+    <string name="msj_01081">Symbol of STABILITY, element of permanence, association, cooperation. It imparts power to specify ideas in practical works, ability to effectively distribute natural elements, interest in technical advances and love for the creations of the intellect. Demand tolerance, distribution in justice, forecast, confidence in time and sense of proportion. The secret yearning of the natives tends to plan big, develop their own sufficiency so that it translates into lasting achievements and utilize what they own in new businesses. They can effectively perform any work that requires tact, calculation, executive aptitude and desire for expansion.</string>
+
+    <string name="msj_01082">Natural Talent: It is related to Saturn. It is a symbol of Provecho, a principle that urges the realization of plans in works. In the spiritual, it illuminates the understanding. In the mental, order the ideas. In the physical, it coordinates the efforts. In the mundane, it organizes cooperation in the workforce. It gives the person a critical, calculating, reasoning spirit and excellent practical sense, which applies to creation as well as to demolition. Your progress depends on the way you apply your intellectual dispositions to the achievement of material values. His mission in life is that the profitable be estimated.</string>
+
+    <string name="msj_01091">It is a symbol of CULMINATION, element of identification, communion, inspiration. It imparts power to influence the near and far, ability to achieve preeminence, interest in unprecedented things and love for the difficult. It demands clear intelligence, a taste for the good, softness in the ways, caution in the decisions and altruism in the procedure. The secret yearning of these natives tends to identify with what exists, develop their own sufficiency so that it is translated into great works and make these works useful and admired by the greatest number of people. They can effectively perform any work that requires mental identification, ease of expression, communion of ideas and feelings and an intense desire to overcome obstacles.</string>
+
+    <string name="msj_01092">Natural Talent: It is related to Mars. It is a symbol of Estimation, a principle that urges the communication of the thinker with his thought and the thing thought. In the spiritual, it is concert. In the mental, I appreciate. In the physical, satisfaction. In the mundane, understanding of the workforce with the mission it fulfills. It grants aptitude to identify with people and things, to commune with ideas and feelings, ease of expression, desires to know new lands and living conditions and ability to manifest what has been learned and give impetus to what is proposed. Your progress depends on the selfless service you provide with your work and the good will in which your words, ideas and works are inspired. His mission in life is that the estimated is deserved.</string>
+
+    <string name="msj_02">The fundamental tonic is what we have to work to succeed in life.</string>
+
+    <string name="msj_0201">This number indicates that you have to work with great will, with original ideas, be an entrepreneur. </string>
+
+    <string name="msj_0202">This number indicates that you have to learn to associate with others, listen to contrary opinions without getting angry, develop the creative imagination. </string>
+
+    <string name="msj_0203">This number indicates that you have to work with art and beauty in everything he does, in dressing, in speaking. </string>
+
+    <string name="msj_0204">This number indicates that you have to lay the groundwork in their projects and jobs. </string>
+
+    <string name="msj_0205">This number indicates that you have to see the pros and cons of everything that is proposed. </string>
+
+    <string name="msj_0206">This number indicates that you have has to be decisive and care what he does. </string>
+
+    <string name="msj_0207">This number indicates that you have has to put a lot of effort into everything he does. </string>
+
+    <string name="msj_0208">This number indicates that you have has to be very patient, know how to wait. </string>
+
+    <string name="msj_0209">This number indicates that you have has to be generous and great, preferably work independently. </string>
+
+    <string name="tonicOfTheDay">Tonic of the day</string>
+
+    <string name="msj_03001">Your number for today</string>
+      
+    <string name="msj_03002">is:</string>
+
+    <string name="msj_0300301">, which indicates that in order to be more likely to succeed in what one sets out, you would have to: work with great will, with original ideas, be an entrepreneur. </string>
+     
+    <string name="msj_0300302">, which indicates that in order to be more likely to succeed in what one sets out, you would have to: learn to associate with others, listen to contrary opinions without getting angry, develop imagination creative. </string>
+       
+    <string name="msj_0300303">, which indicates that in order to be more likely to succeed in what one sets out, you would have to: work with art and beauty in everything you do, in dress, in talking. </string>
+
+    <string name="msj_0300304">, which indicates that in order to be more likely to succeed in what one proposes, on this day, you would have to: lay the firm foundation in your projects and jobs. </string>
+
+    <string name="msj_0300305">, which indicates that in order to be more likely to succeed in what one sets out, you would have to: see the pros and cons of everything that is proposed on this day. </string>
+
+       
+    <string name="msj_0300306">, which indicates that in order to be more likely to succeed in what one sets out, you on this day would have to: be decisive and care for what you do. </string>
+        
+    <string name="msj_0300307">, which indicates that to be more likely to succeed in what one sets out, you would have to: put a lot of effort into everything you do. </string>
+
+    <string name="msj_0300308">, which indicates that to be more likely to succeed in what one sets out, you would have to: be very patient, know how to wait. </string>
+
+    <string name="msj_0300309">, which indicates that in order to be more likely to succeed in what one sets out, you on this day would have to: be generous and great, preferably work independently. </string>
+
+    <string name="hermetic_astrologic">Hermetic Astrologic</string>
+
+    <string name="msj_0401">Today is Sunday, governed by the LUNA </string>
+
+    <string name="msj_0402">Today is Monday, ruled by the planet MERCURY </string>
+
+    <string name="msj_0403">Today is Tuesday, ruled by the planet VENUS </string>
+
+    <string name="msj_0404">Today is Wednesday, governed by the SOL </string>
+
+    <string name="msj_0405">Today is Thursday, ruled by the planet MARS </string>
+
+    <string name="msj_0406">Today is Friday, ruled by the planet JUPITER </string>
+
+    <string name="msj_0407a">Today is Saturday, ruled by the planet SATURN </string>
+        
+    <string name="msj_040101">The planetary influence of the LUNA favors activities related to: Imagination, subconscious automatisms, species reproduction, travel, handicrafts, practical arts, businesses related to liquid products, etc. </string>
+
+        
+    <string name="msj_040202">The planetary influence of the planet MERCURIO favors activities related to: Will, command, armies, wars, surgery, forces and forces, cases that involve struggles, etc. </string>
+
+        
+    <string name="msj_040303">The planetary influence of the planet VENUS favors activities related to: Reason and rationalism, lawsuits, civil matters, advocacy, science, everything that has to do with intellect, medical science, cures. </string>
+
+        
+    <string name="msj_040404">The planetary influence of the SOL favors activities related to: Wealth, poverty, favorable or unfavorable economic matters, laws, rights of people, high religious dignitaries, judges, matters that have to do with laws, etc. </string>
+
+        
+    <string name="msj_040505">The planetary influence of the planet MARS favors activities related to: Artistic creative imagination, dramas, comedies and tragedies, performing art. Love affairs, marital problems, boyfriend issues, anything to do with home and children, etc. </string>
+
+        
+    <string name="msj_040606">The planetary influence of the planet JUPITER for activities related to: The environment in which we live, practical life, Karma in action, the sword of justice that reaches us from heaven, matters of property, roots , land, houses, property, prisons, deaths, etc. </string>
+
+        
+    <string name="msj_040707">The planetary influence of the planet SATURNO for activities related to: Health, life, fertility, high government dignitaries, company leaders, kings and lords of command, etc. </string>
+
+    <string name="msj_05">Kabbalah of the Year</string>
+
+    <string name="msj_0501">During life we ​​have space years related to the law of cause and effect (Karma), it will depend on one if the number favors us or is against one, for their actions.</string>
+
+    <string name="msj_0502">regent number</string>
+
+    <string name="msj_dialog00">About us:</string>
+
+    <string name="msj_dialog01">Programmer:</string>
+
+    <string name="msj_dialog02a">Designer:</string>
+
+    <string name="msj_dialog03">© 2019, MECA co, Ltd. All rights reserved.</string>
+
+
+</resources>
