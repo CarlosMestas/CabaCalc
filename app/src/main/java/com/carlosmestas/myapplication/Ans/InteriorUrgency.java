@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 import com.carlosmestas.myapplication.R;
 
 public class InteriorUrgency extends AppCompatActivity {
@@ -60,5 +61,10 @@ public class InteriorUrgency extends AppCompatActivity {
             tvMsj.setText(getResources().getString(R.string.msj_01) + "\n\n" + getResources().getString(R.string.msj_01091)+"\n\n"
                     + getResources().getString(R.string.msj_01092));
         }
+    }
+
+    public void onBackPressed(){
+        super.onBackPressed();
+        Animatoo.animateFade(InteriorUrgency.this);
     }
 }

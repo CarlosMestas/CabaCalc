@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">CabaCalc</string>
+    <string name="app_name">CabaCalc 2</string>
+
+    <string name="full_name">Full name</string>
+
+    <string name="date_of_birth">Date of birth</string>
 
     <string name="button">Button</string>
 
@@ -23,7 +27,9 @@
 
     <string name="calculate">CALCULATE</string>
 
-    <string name="fill_all">Fill all the fields</string>
+    <string name="fill_all">Enter your full name</string>
+
+    <string name="wrong_date">Wrong date</string>
 
     <string name="error_1">Leap year, February has 29 days</string>
 

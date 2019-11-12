@@ -7,8 +7,12 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -27,8 +31,12 @@ public class MainActivity extends AppCompatActivity {
         btnStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                final Animation myAnim = AnimationUtils.loadAnimation(MainActivity.this, R.anim.milkshake);
+                v.startAnimation(myAnim);
+
                 intent = new Intent(getApplicationContext() , Questionnaire.class);
                 startActivity(intent);
+                Animatoo.animateSplit(MainActivity.this);
             }
         });
 

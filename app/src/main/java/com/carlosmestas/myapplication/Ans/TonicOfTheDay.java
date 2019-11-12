@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 import com.carlosmestas.myapplication.R;
 
 import java.util.Calendar;
@@ -100,5 +101,10 @@ public class TonicOfTheDay extends AppCompatActivity {
 
 
 
+    }
+
+    public void onBackPressed(){
+        super.onBackPressed();
+        Animatoo.animateFade(TonicOfTheDay.this);
     }
 }

@@ -1,10 +1,17 @@
 package com.carlosmestas.myapplication.Ans;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
+import android.view.KeyEvent;
+import android.view.View;
 import android.widget.TextView;
+import android.widget.Toolbar;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
+import com.carlosmestas.myapplication.Answers;
 import com.carlosmestas.myapplication.R;
 
 public class HermeticAstrologic extends AppCompatActivity {
@@ -16,6 +23,12 @@ public class HermeticAstrologic extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hermetic_astrologic);
+
+        /*
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.setDisplayHomeAsUpEnabled(true);
+        actionBar.setDisplayShowHomeEnabled(true);
+        */
 
         Intent intent = getIntent();
         number = intent.getIntExtra("hermeticAstrologic",0);
@@ -58,5 +71,18 @@ public class HermeticAstrologic extends AppCompatActivity {
 
 
 
+    }
+
+    /*
+    @Override
+    public boolean onSupportNavigateUp() {
+        onBackPressed();
+        return super.onSupportNavigateUp();
+    }
+    */
+    @Override
+    public void onBackPressed(){
+        super.onBackPressed();
+        Animatoo.animateFade(HermeticAstrologic.this);
     }
 }

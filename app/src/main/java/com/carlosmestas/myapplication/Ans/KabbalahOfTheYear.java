@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 import com.carlosmestas.myapplication.R;
 
 public class KabbalahOfTheYear extends AppCompatActivity {
@@ -59,5 +60,8 @@ public class KabbalahOfTheYear extends AppCompatActivity {
         }
         return ans;
     }
-
+    public void onBackPressed(){
+        super.onBackPressed();
+        Animatoo.animateFade(KabbalahOfTheYear.this);
+    }
 }

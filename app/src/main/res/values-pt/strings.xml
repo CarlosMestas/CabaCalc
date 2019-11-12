@@ -2,9 +2,15 @@
 <resources>
     <string name="app_name">CabaCalc</string>
 
+    <string name="full_name">Nome completo</string>
+
+    <string name="date_of_birth">Data de nascimento</string>
+
     <string name="button">Botão</string>
 
     <string name="TextView">Texto :V</string>
+
+    <string name="wrong_date">Data errada</string>
 
     <string name="Hello">Olá!</string>
 
@@ -24,7 +30,7 @@
 
     <string name="calculate">CALCULAR</string>
 
-    <string name="fill_all">Rellena todos los campos</string>
+    <string name="fill_all">Digite seu nome completo</string>
 
     <string name="error_1">Ano bissexto, fevereiro tem 29 dias</string>
 

@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 import com.carlosmestas.myapplication.Ans.HermeticAstrologic;
 import com.carlosmestas.myapplication.Ans.InteriorUrgency;
 import com.carlosmestas.myapplication.Ans.KabbalahOfTheYear;
@@ -20,7 +21,7 @@ import java.util.Date;
 public class Answers extends AppCompatActivity {
 
     Intent intent;
-    String lastName, name;
+    String name;
     int day, month, year;
     int interiorUrgency = 0;
     int fundamentalTonic = 0;
@@ -36,7 +37,6 @@ public class Answers extends AppCompatActivity {
 
         intent = getIntent();
 
-        lastName = intent.getStringExtra("lastName");
         name = intent.getStringExtra("name");
         day = intent.getIntExtra("day",0);
         month = intent.getIntExtra("month",0);
@@ -50,7 +50,7 @@ public class Answers extends AppCompatActivity {
             interiorUrgency = sumAllNumbers(interiorUrgency);
         }
 
-        fundamentalTonic = sumAllCharacters(name, lastName);
+        fundamentalTonic = sumAllCharacters(name);
 
         while(fundamentalTonic > 9){
             fundamentalTonic = sumAllNumbers(fundamentalTonic);
@@ -125,7 +125,7 @@ public class Answers extends AppCompatActivity {
         textViewCompleteName = findViewById(R.id.textViewName);
         textViewDateBirth = findViewById(R.id.textViewDate);
 
-        textViewCompleteName.setText(name + " " + lastName);
+        textViewCompleteName.setText(name);
         textViewDateBirth.setText(getResources().getString(R.string.birth_day) + ": " + zero1 +day + "/" +  zero2 + month + "/" + year);
 
         buttonInteriorUrgency = findViewById(R.id.button);
@@ -145,6 +145,7 @@ public class Answers extends AppCompatActivity {
                 intent2 = new Intent(getApplicationContext(), InteriorUrgency.class);
                 intent2.putExtra("interiorUrgency", interiorUrgency);
                 startActivity(intent2);
+                Animatoo.animateFade(Answers.this);
             }
         });
 
@@ -155,6 +156,7 @@ public class Answers extends AppCompatActivity {
                 intent2 = new Intent(getApplicationContext(), TonicFundamental.class);
                 intent2.putExtra("tonicFundamental", fundamentalTonic);
                 startActivity(intent2);
+                Animatoo.animateFade(Answers.this);
             }
         });
 
@@ -165,6 +167,7 @@ public class Answers extends AppCompatActivity {
                 intent2 = new Intent(getApplicationContext(), TonicOfTheDay.class);
                 intent2.putExtra("tonicOfTheDay", tonicDay);
                 startActivity(intent2);
+                Animatoo.animateFade(Answers.this);
             }
         });
 
@@ -175,6 +178,7 @@ public class Answers extends AppCompatActivity {
                 intent2 = new Intent(getApplicationContext(), HermeticAstrologic.class);
                 intent2.putExtra("hermeticAstrologic", d0);
                 startActivity(intent2);
+                Animatoo.animateFade(Answers.this);
             }
         });
 
@@ -185,6 +189,7 @@ public class Answers extends AppCompatActivity {
                 intent2 = new Intent(getApplicationContext(), KabbalahOfTheYear.class);
                 intent2.putExtra("year", year);
                 startActivity(intent2);
+                Animatoo.animateFade(Answers.this);
             }
         });
     }
@@ -198,18 +203,18 @@ public class Answers extends AppCompatActivity {
         return ans;
     }
 
-    static int sumAllCharacters(String name, String lastName){
+    static int sumAllCharacters(String name){
         int ans = 0;
         for(int i = 0 ; i < name.length() ; i++){
             if(name.charAt(i) != ' ')
-                ans++;
-        }
-        for(int i = 0 ; i < lastName.length() ; i++){
-            if(lastName.charAt(i) != ' ')
                 ans++;
         }
 
         return ans;
     }
 
+    public void onBackPressed(){
+        super.onBackPressed();
+        Animatoo.animateFade(Answers.this);
+    }
 }

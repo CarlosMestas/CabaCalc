@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 import com.carlosmestas.myapplication.R;
 
 public class TonicFundamental extends AppCompatActivity {
@@ -53,5 +54,10 @@ public class TonicFundamental extends AppCompatActivity {
             tvMsj.setText(getResources().getString(R.string.msj_02) + "\n\n" + getResources().getString(R.string.msj_0209));
         }
 
+    }
+
+    public void onBackPressed(){
+        super.onBackPressed();
+        Animatoo.animateFade(TonicFundamental.this);
     }
 }
